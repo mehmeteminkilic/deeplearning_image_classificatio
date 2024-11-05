@@ -1,7 +1,3 @@
-# deeplearning_image_classificatio
-A deep learning model for image classification. This project demonstrates how to use PyTorch to train a neural network to classify handwritten digits, showcasing the power of deep learning in solving problems that traditional programming methods cannot.
-
-
 # Image Classification with the MNIST Dataset using PyTorch
 
 This repository contains a Python implementation of an image classification model using deep learning techniques on the MNIST handwritten digits dataset. The goal is to demonstrate how deep learning can be applied to solve problems that traditional programming methods cannot easily handle. In this project, a simple neural network model is created, trained, and evaluated using PyTorch.
